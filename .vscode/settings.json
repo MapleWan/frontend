@@ -1,0 +1,8 @@
+{
+    "marscode.chatLanguage": "cn",
+    "Codegeex.RepoIndex": true,
+    "marscode.codeCompletionPro": {
+        "enableCodeCompletionPro": true
+    },
+    "marscode.enableInlineCommand": true
+}
