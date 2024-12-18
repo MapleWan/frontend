@@ -1,0 +1,11 @@
+:root {
+  --primary-color: #ff9854;
+  --line-color: #faf8f9;
+  --theme-linear-gradient: linear-gradient(90deg, #fa8c1d, #fcaf3f);
+}
+
+body {
+  font-size: 14px;
+  font-family: "JetBrains Mono", "CascadiaCodePL-Light", "Menlo", "Monaco",
+    "Courier New", "monospace";
+}
